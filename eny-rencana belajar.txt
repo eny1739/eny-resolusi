@@ -1,0 +1,6 @@
+rencana belajar eny
+-belajar java
+-belajar android studio
+*layout
+*main
+-belajar git&github
